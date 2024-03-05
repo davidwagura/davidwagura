@@ -1,6 +1,4 @@
----
 
-### :Man_technologist: About Me :
 - 👋 Hi, I’m David Wagura
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning introduction to HTML/CSS and Basic Javascript
