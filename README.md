@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Open Source Development
 - 📫 How to reach me davidwagura83@gmail.com
 - 😄 Pronouns: He/Him
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidwanjohi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidwanjohi/)
 
 - ---
 
