@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
   
 
-- ---
+ ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
