@@ -1,8 +1,10 @@
 <h1>
   Hey there <br>
-  <p>I'm David Wagura a junior software developer</p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+  <p>I'm David Wagura a junior software developer</p>
+
 <h2>
   - :writing_hand: About Me:
 </h2>
