@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @davidwagura
+---
+
+### :Man_technologist: About Me :
+- 👋 Hi, I’m David Wagura
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning introduction to HTML/CSS and Basic Javascript
 - 💞️ I’m looking to collaborate on Open Source Development
 - 📫 How to reach me davidwagura83@gmail.com
 - 😄 Pronouns: He/Him
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidwanjohi/)
+
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
