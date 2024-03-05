@@ -2,9 +2,9 @@
   hey there I'm David Wagura
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning introduction to HTML/CSS and Basic Javascript
-- 💞️ I’m looking to collaborate on Open Source Development
+- 👀 I’m interested in Software Development <br>
+- 🌱 I’m currently learning introduction to HTML/CSS and Basic Javascript<br>
+- 💞️ I’m looking to collaborate on Open Source Development<br>
 - 📫 How to reach me davidwagura83@gmail.com
 <div id="badges">
   <a href="your-linkedin-URL">
